@@ -5,7 +5,7 @@ Tính năng:
 - Gọi OpenAI api để dựa vào đầu vào là thông tin chỉ định sẵn tạo ra câu trắc nghiệm.
 
 Yêu cầu trước khi cài đặt:
-- Có sẵn api của OpenAI còn token để sử dụng, có dạng "k-xWbuyrYy621Ud9jo4DK4T3BlbkFJI8qhTcopusH9b6M....."
+- Có sẵn api của OpenAI còn token để sử dụng, có dạng "k-xWbuyrYy621Ud9jo4DK4T3BlbkFJI8qhTcopusH9b6M.....". Các lấy mã api của OpenAI thì Google nhe.
 - Cài đặt các gói thư viện của Python. Mở cmd bằng quyền admin, chạy tuần tự các câu lệnh bên dưới
     pip install Flask
     pip install openai
