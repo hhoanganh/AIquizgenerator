@@ -1,0 +1,9 @@
+Category: Change Management and Risk Assessment 
+Circumstance: You are a Senior Business Analyst on a project to assess the risk of an organizational change. Your team has identified several areas of potential risk, and you need to evaluate them in order to make the best decision for your organization.
+Part 3: Q: What is one method that can be used for evaluating potential risks associated with organizational changes? 
+A1: Establishing control systems 
+A2: Analyzing current processes  
+A3: Measuring customer satisfaction   
+Correct: 2 
+Explanation: Evaluating potential risks associated with organizational changes typically involves analyzing current processes in order to identify weak spots or areas of vulnerability. Additionally, this type of analysis can help stakeholders understand how their existing process will be impacted by proposed changes, allowing them to make decisions based on accurate information. 
+Example: Before implementing a new system, it is important for analysts to analyze existing processes and consider how they might change when the new system is implemented. This allows organizations to anticipate potential risks associated with making such a change and adjust accordingly.

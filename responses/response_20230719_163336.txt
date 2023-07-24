@@ -1,0 +1,10 @@
+Category: Stakeholder Management and Relationship Building
+Circumstance: You are a Business Analyst in charge of developing an enterprise-level software solution for a client. The project team is comprised of developers, quality assurance engineers, product managers, and customer support representatives. The client has requested that you provide the stakeholders with frequent updates on the progress of the project so they can be kept in the loop.
+
+Q: What is the best way to ensure stakeholders are continuously updated on project progress? 
+A1: Create a dashboard that tracks key performance indicators and send it out weekly. 
+A2: Meet with stakeholders regularly to discuss progress. 
+A3: Send out automated emails at predetermined milestones throughout the project timeline.  
+Correct: 2 
+Explanation: Meeting with stakeholders regularly provides an opportunity for two-way communication between all parties involved in the project. This allows them to ask questions and get more detailed information about what's happening in real time, whereas a dashboard or automated emails may not provide enough insight into how far along things are progressing or could potentially miss something important due to miscommunication or gaps in understanding.  
+Example: As part of your stakeholder management strategy, you should meet with each stakeholder once every week or two during each stage of your development process (requirements gathering, design/development phase, testing phase). During these meetings make sure to cover any major updates since last meeting as well as any areas where further attention is needed from either side for successfull completion of ongoing tasks related to that particular stage.

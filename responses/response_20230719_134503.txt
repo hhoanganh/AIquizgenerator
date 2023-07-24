@@ -1,0 +1,9 @@
+Category: Data Modeling and Database Design
+Circumstance: You are a Senior Business Analyst for an enterprise software company. Your client, a large retail chain, is interested in leveraging database technologies to increase efficiency and cut costs. As part of the project, you have been asked to develop a data model for their Oracle database that will support their customer relationship management system (CRM). 
+Q: What are some of the key challenges associated with designing an effective data model for use in an Oracle environment?
+A1: Designing the tables so that there are no redundant data entries or orphaned records.
+A2: Ensuring that all transactions follow ACID principles. 
+A3: Optimizing queries for the best performance in terms of speed and resources used. 
+Correct: 3 
+Explanation: The correct answer is A3 because when designing an effective data model it is important to ensure your queries will be optimized for fast performance while using minimal resources. Option A1 refers to normalization which helps reduce redundant data entries and orphaned records but this does not necessarily involve maximizing query performance. Option A2 refers to ACID principles which refer to maintaining transaction consistency but this does not directly involve optimizing queries either. 
+Example: When creating an Oracle database, it is essential that each query should be designed with efficiency in mind by minimizing unnecessary resource usage such as temporary tablespace memory or disk I/O operations so as to maximize overall performance of the database system as a whole.

@@ -1,0 +1,198 @@
+/* Common styles for all screens */
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  h1 {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    font-size: 48px;
+    font-weight: bold;
+    margin-top: 20px;
+  }
+  
+  /* Home screen specific styles */
+  #home-description {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    font-size: 24px;
+    margin-top: 10px;
+  }
+  
+  #start-form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 40px;
+  }
+  
+  #start-form label {
+    font-size: 24px;
+  }
+  
+  .quiz-info {
+    display: grid;
+    grid-template-columns: 1fr;
+  }
+  
+  .info-item {
+    font-family: Arial, sans-serif;
+    font-size: 24px;
+    text-align: left;
+    margin-bottom: 20px; /* Add some spacing between the items */
+  }
+  
+  /* Quiz screen specific styles */
+  .quiz-list {
+    margin-top: 40px;
+  }
+  
+  .quiz-item {
+    margin-bottom: 20px;
+    border: 1px solid #ddd;
+    padding: 10px;
+  }
+  
+  .quiz-question {
+    font-family: Arial, sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .quiz-answer {
+    font-family: Arial, sans-serif;
+    font-size: 24px;
+    margin-bottom: 5px;
+  }
+  
+  #result {
+    font-family: Arial, sans-serif;
+    font-size: 36px;
+    font-weight: bold;
+    margin-top: 10px;
+  }
+  
+  #explanation,
+  #example {
+    font-family: Arial, sans-serif;
+    font-size: 24px;
+    margin-top: 10px;
+  }
+  
+
+  /* Reuse screen specific styles */
+  #reuse-container {
+    margin-top: 40px;
+  }
+  
+  #reuse-item {
+    margin-bottom: 20px;
+    border: 1px solid #ddd;
+    padding: 10px;
+  }
+  
+  /* Footer styles */
+  .footer-container {
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 20px;
+    background-color: #f1f1f1;
+    font-size: 14px;
+  }
+  
+  .footer-social {
+    display: flex;
+    align-items: center;
+  }
+  
+  .footer-social img {
+    width: 24px;
+    height: 24px;
+    margin-right: 10px;
+  }
+  
+  /* Custom Styles */
+  /* Home screen */
+  .quiz-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+  }
+  
+  #levelText {
+    font-family: Arial, sans-serif;
+    font-size: 36px;
+    margin-top: 20px;
+  }
+  
+  .error-message {
+    display: block;
+    color: red;
+    font-size: 24px;
+    margin-top: 20px;
+  }
+  
+  .alert-message {
+    display: none;
+    font-family: Arial, sans-serif;
+    font-size: 36px;
+    color: red;
+    margin-top: 20px;
+  }
+  
+  /* Button Container */
+  .button-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+  }
+  
+  .home-button,
+  .continue-button,
+  .start-button,
+  .reuse-button {
+    font-family: Arial, sans-serif;
+    font-size: 36px;
+    padding: 12px 24px;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .home-button {
+    background-color: #007bff;
+    margin-right: 20px;
+  }
+ 
+  .start-button {
+    background-color: #28a745;
+    margin-right: 20px;
+  }
+
+  .continue-button {
+    background-color: #28a745;
+  }
+  
+  .reuse-button {
+    background-color: #ffc107;
+  }
+  
+  /* Home screen: align buttons on mobile devices */
+  @media only screen and (max-width: 600px) {
+    .button-container {
+      flex-direction: column;
+    }
+
+  }
+  

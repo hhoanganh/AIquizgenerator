@@ -1,0 +1,9 @@
+Category: Analytical Thinking 
+Circumstance: Your team is tasked to develop an efficient system for handling customer complaints. The goal is to quickly and accurately address each issue. After the initial complaint has been logged, you are now responsible for developing a process that will help prioritize the complaints in order of severity and urgency so they can be addressed in a timely manner. 
+Q: What approach should be used when prioritizing customer complaints? 
+A1: Focus on the most common issues first.
+A2: Utilize urgency or business impact metrics as the main criteria for assigning priority levels.
+A3: Assign each complaint with a value based on its complexity or how difficult it would be to resolve. 
+Correct: 2 
+Explanation: The best approach to prioritize customer complaints would be by utilizing urgency or business impact metrics as the main criteria for assigning priority levels. This method allows teams to identify which issues need immediate attention and which ones can wait until later, allowing them to focus their efforts on those that have greater potential consequences if left unresolved. Additionally, it allows teams to understand what types of problems are more frequent so they can strategize more effectively around resolution processes in order to reduce overall time spent resolving similar complaints in the future.  
+Example: A customer filed a complaint about a website crash causing data loss when attempting purchase items from their online store - this would likely be assigned with higher priority than a complaint about poor web page loading speed due to lower business impact and lesser potential consequences if left unresolved.

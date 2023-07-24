@@ -1,0 +1,9 @@
+Category: Adaptability and Flexibility
+Circumstance: Your company is planning to launch a new product in the market. A week before the launch, one of your project team members falls ill and cannot attend the event. You are responsible for finding an appropriate replacement. 
+Q: What steps should you take to ensure an efficient transition? 
+A1: Ask another team member to fill in for the absent member 
+A2: Re-allocate tasks among existing team members 
+A3: Hire a temporary resource to handle only the missing person's task  
+Correct: 2 
+Explanation: Option 1 may not be feasible as there may be no one available from your existing team who can take on additional responsibilities. Option 2 is ideal as it ensures that all tasks are completed without any delays or extra cost involved. It also offers other employees an opportunity to expand their skillset by taking on new tasks and challenges. Option 3 involves hiring a temporary resource which can be costly and time consuming, so it is not recommended in this scenario. 
+Example: To create a smooth transition process in this situation, you should re-distribute tasks among current team members so that all responsibilities are covered timely and efficiently. This approach allows existing employees to learn more skills while ensuring that deadlines are met without any need for hiring additional resources or incurring extra costs.

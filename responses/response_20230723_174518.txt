@@ -1,0 +1,9 @@
+Category: Change Management and Risk Assessment 
+Circumstance: Your organization has recently released a new version of their software. The development team made sure that all the requirements were met and the test plan was completed successfully. However, when the project went into production, there were several issues encountered with the performance of the application. As a Senior Business Analyst, you are tasked to assess the risks associated with this change in order to mitigate any potential problems in future releases.
+Q: What is one of the most important steps that should be taken when assessing risk for a software project?
+A1: Create an inventory of all stakeholders involved. 
+A2: Analyze data from previous projects to identify areas of concern.
+A3: Develop strategies to address potential risks or opportunities identified as part of process analysis and reviews 
+Correct: 2 
+Explanation: It is essential for any successful risk assessment process to analyze data from past projects so that areas where issues have previously occurred can be identified quickly and efficiently before they cause problems again in future iterations of the project. This includes examining metrics such as time spent on each phase, number of bugs found during testing, customer feedback at launch etc., which may provide insight into weak points in your development cycle that could benefit from improvement or further investigation when it comes time to make changes to your product.  
+Example: In order to assess risk for a software project, one should analyze data from previous versions including metrics such as code review scores, bug reports filed throughout testing stages, customer feedback after roll-out etc., so weak points can be spotted quickly before future releases encounter similar issues

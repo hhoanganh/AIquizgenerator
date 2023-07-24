@@ -1,0 +1,9 @@
+Category: Attention to Detail
+Circumstance: You are a business analyst working on an online store project. Your team is responsible for creating the customer checkout page which will allow customers to purchase items from the store. To ensure that the process goes smoothly, it is important that all details of the page are accurate and up-to-date. 
+Q: What steps can you take to verify the accuracy and completeness of a customer checkout page?
+A1: Manual testing by going through each step in the process. 
+A2: Utilizing automation tools such as Selenium or Robot Framework to test every element of the checkout page quickly. 
+A3: Conducting user interviews and reviews with stakeholders.  
+Correct: 1 
+Explanation: Manual testing is one of the most reliable ways of ensuring accuracy when checking out a customer checkout page as it allows you to go through each step in detail, verifying data entry fields, buttons, labels, etc., as well as identifying any potential issues with usability or design that may arise during this process. Automation tools can be useful for quickly running tests across multiple elements; however they do not provide detailed feedback on individual elements unless configured specifically for this purpose. User interviews/reviews should not be used when verifying accuracy since these will only provide subjective feedback regarding usability rather than factual errors or omissions found in code or content displayed on screen. 
+Example: When manually testing a customer checkout page, you would go through each step of the process carefully and check every field entry box for text correctness, line breaks, placeholders etc., while also looking out for any potentially confusing wording or missing pieces of information that could lead to confusion later on down the line if not addressed immediately upon launch.

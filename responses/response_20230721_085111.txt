@@ -1,0 +1,9 @@
+Category: Data Warehousing and ETL Processes
+Circumstance: You are a Senior Business Analyst working for a financial institution which has recently decided to implement a new data warehousing system. Your task is to develop an ETL process that will automate the collection, storage, and processing of data from various systems into the new data warehouse. 
+Q: What should you consider when developing the ETL process?
+A1: Security protocols and access control measures 
+A2: Automated testing tools used during development  
+A3: Reproducibility of the results produced by the process 
+Correct: 1 
+Explanation: When developing an ETL process, it is important to consider security protocols and access control measures. These protocols and policies ensure that only authorized personnel can access the system or its components and help protect sensitive data from malicious third-parties. Automated testing tools are necessary to ensure code quality and reproducibility of results produced by the process, but these aspects are secondary considerations compared to security protocols. 
+Example: To ensure that only authorized personnel have access to your new data warehousing system, create individual user accounts with varying levels of permissions assigned according to their role in your organization. Establishing strong password requirements helps enhance user authentication processes. Additionally, configure firewalls and other network security solutions as needed for enhanced protection against malicious attackers or unauthorized users attempting to gain access without permission.

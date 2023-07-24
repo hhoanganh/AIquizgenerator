@@ -1,0 +1,10 @@
+Category: Time Management 
+Circumstance: As an IT BA or BSA, you are working on a project that involves multiple teams and stakeholders. You need to ensure the completion of tasks within the timeline set by your client.
+With limited resources, how do you balance the workload in order to meet the deadline?
+Q: What strategies can be used to effectively manage time for a task involving multiple teams and stakeholders? 
+A1: Delegate roles and responsibilities according to each team’s strengths and weaknesses. 
+A2: Outline clear timelines with milestones along with specific deadlines for each task.  
+A3: Make use of project management software such as Trello or Jira. 
+Correct: 2  
+Explanation : A1 is not correct because it does not directly address managing time but instead focuses on delegating tasks which may help in managing time but is not enough by itself; A2 is correct because having clear outlines helps in accurately measuring progress made against set goals which gives an idea about how much longer will it take to complete the task thus helping make better judgement when allocating available resources ; A3 is only partly correct as although using project management software can help save time when tracking progress , it might require extra effort from team members if they're new users and also cannot replace individual efforts required from each team member . Sources : 'Software Requirements 3rd Edition' by Karl Wiegers, Joy Beatty ; 'The Business Analysis Handbook' by Howard Podeswa ; 'Business Analysis Methodology Book' by Emrah Yayici ; 'UML 2.0 in Action - A Project-Based Tutorial' By Patrick Grässle, Henriette Baumann, Philippe Baumann; ‘Agile And Business Analysis – Practical Guidance For It Professionals’ By Lynda Girvan , Debra Paul      
+                Example : Outlining specific deadlines along with milestones increases visibility into upcoming deliverables allowing managers more accurate estimations of resource requirements thus helping them plan accordingly meeting set deadlines efficiently .

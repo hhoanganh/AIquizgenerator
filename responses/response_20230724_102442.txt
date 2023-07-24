@@ -1,0 +1,9 @@
+Category: Analytical Thinking
+Circumstance: A new business analyst is joining your team to help with the development of a set of requirements for a new software project. As part of the process, they are tasked with analyzing and identifying different solutions to solve complex problems.
+Q: What skills should the new business analyst have in order to effectively analyze and identify different solutions? 
+A1: The ability to organize data and information into useful categories. 
+A2: The ability to think critically and use logical reasoning when solving problems. 
+A3: The ability to ask clear questions in order to better understand the problem at hand. 
+Correct: 2
+Explanation: For any effective problem-solving activity, analytical thinking is key; it involves breaking down a problem into smaller components and examining them from many angles before arriving at a solution. This requires critical thinking skills as well as an understanding of logic - both of which are essential for the Business Analyst role. Organizing data is also important but less so than being able to think analytically about it, while asking clear questions helps uncover more information about the root cause behind specific issues or scenarios that need solving. 
+Example: To illustrate this concept, consider an example where you may be presented with multiple courses for dealing with a customer complaint - one that rewards them financially, another that apologizes but does not offer compensation, and yet another that provides discounts on future purchases. In this situation, analytical thinking could involve evaluating each option by considering their cost/benefit ratio (financial vs reputational) over longer term impacts versus shorter term gains (i.e., immediate customer satisfaction vs long-term loyalty).

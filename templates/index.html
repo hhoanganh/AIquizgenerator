@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>AI Quiz Generator Reuse Quiz</title>
+  <link rel="stylesheet" type="text/css" href="/static/styles.css">
+</head>
+<body>
+  <h1>AI Quiz Generator</h1>
+
+  <!-- Add the error message element here -->
+  {% if error_message %}
+    <p class="error-message">{{ error_message }}</p>
+  {% endif %}
+
+  <form id="start-form" action="/start" method="post">
+    <label>
+      <input type="radio" name="level" value="Junior" onclick="displayText('Junior')"> Junior
+    </label>
+    <label>
+      <input type="radio" name="level" value="Senior" onclick="displayText('Senior')"> Senior
+    </label>
+
+    <p id="levelText"></p>
+    <div id="errorContainer" style="display: none; color: red; font-size: 36px; margin-top: 20px;"></div>
+    <p id="alertMessage" style="display: none;"></p>
+  </form>
+
+  <div class="button-container">
+    <button type="button" class="start-button" onclick="startQuiz()">START</button>
+    <button type="button" class="reuse-button" onclick="reuseQuiz()">REUSE QUIZ</button>
+  </div>
+  
+  <script>
+    function displayText(level) {
+      const levelText = document.getElementById('levelText');
+      levelText.textContent = `This is a quiz for ${level}`;
+      levelText.style.fontSize = '36px'; // Adjust the font size here
+      const alertMessage = document.getElementById('alertMessage');
+      alertMessage.style.display = 'none';
+    }
+    function startQuiz() {
+      const selectedLevel = document.querySelector('input[name="level"]:checked');
+      if (selectedLevel) {
+        const level = selectedLevel.value;
+        const form = document.createElement('form');
+        form.id = 'start-form';
+        form.method = 'post';
+        form.action = '/start';
+
+        const levelInput = document.createElement('input');
+        levelInput.type = 'hidden';
+        levelInput.name = 'levelText';
+        levelInput.value = level;
+        form.appendChild(levelInput);
+
+        document.body.appendChild(form);
+        form.submit();
+      } else {
+        const alertMessage = document.getElementById('alertMessage');
+        alertMessage.textContent = 'Please select a level before starting the quiz.';
+        alertMessage.style.fontSize = '36px'; // Adjust the font size here
+        alertMessage.style.display = 'block';
+      }
+    }
+
+    function reuseQuiz() {
+      const selectedLevel = document.querySelector('input[name="level"]:checked');
+      if (selectedLevel) {
+        const level = selectedLevel.value;
+
+        // Check if the selected level has at least 10 quizzes in the database
+        fetch(`/check_quiz_count?level=${encodeURIComponent(level)}`)
+          .then(response => response.json())
+          .then(data => {
+            if (data.quiz_count >= 10) {
+              // Redirect to the reuse page
+              const form = document.createElement('form');
+              form.method = 'POST';
+              form.action = '/reuse';
+
+              const levelInput = document.createElement('input');
+              levelInput.type = 'hidden';
+              levelInput.name = 'level';
+              levelInput.value = level;
+              form.appendChild(levelInput);
+
+              document.body.appendChild(form);
+              form.submit();
+            } else {
+              // Display the error message on the index page
+              const errorContainer = document.getElementById('errorContainer');
+              errorContainer.textContent = 'Not enough quizzes available for reuse. Please try again later.';
+              errorContainer.style.display = 'block';
+            }
+          })
+          .catch(error => {
+            // Handle the error case if the request to the server fails
+            console.error('Failed to get quiz count:', error);
+          });
+      } else {
+        // Display the error message when no level is selected
+        const alertMessage = document.getElementById('alertMessage');
+        alertMessage.textContent = 'Please select a level to reuse the quiz.';
+        alertMessage.style.fontSize = '36px';
+        alertMessage.style.display = 'block';
+      }
+    }
+  </script>
+</body>
+</html>

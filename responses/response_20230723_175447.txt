@@ -1,0 +1,10 @@
+Category: Collaboration 
+Circumstance: You're a Senior Business Analyst who has been assigned to develop a strategy and perform an analysis of the customer service team at a large tech company. Although the team is working well together, they are having trouble effectively communicating with each other in order to quickly resolve customer issues.
+
+Q: What can the Senior Business Analyst do to help facilitate better collaboration between members of the customer service team?
+A1: Create clear communication channels and protocols for all customers and staff. 
+A2: Implement systems that allow members of the team to easily access information and resources they need. 
+A3: Establish expectations about how often teams should collaborate and communicate when resolving customer issues. 
+Correct: 3 
+Explanation: All three options are valid solutions but establishing expectations about how often teams should collaborate and communicate when resolving customer issues will be most effective in helping facilitate better collaboration between members of the customer service team. This will ensure that everyone is on the same page regarding how and when to work together when trying to resolve customer issues quickly.  
+Example: The Senior Business Analyst could set up regular meetings for members of the customer service team, either daily or weekly depending on their needs, where they can discuss any current or upcoming projects as well as share any progress updates or new ideas for addressing open cases with customers.

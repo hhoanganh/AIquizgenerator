@@ -1,0 +1,9 @@
+Category: User Acceptance Testing and Validation
+Circumstance: You are a Senior Business Analyst working with a large international e-commerce company. Your team is tasked with the development of a new platform that will enable customers to purchase items online. During the user acceptance testing phase, you have identified an issue in which some users are not able to complete the payment process on their mobile devices. 
+Q: What technique should be used to identify and address this issue?
+A1: Rollback 
+A2: Usability Testing 
+A3: Root Cause Analysis 
+Correct: 2  
+Explanation: Option 1 (Rollback) is not applicable as it involves reverting back changes made in order to fix an issue, whereas no changes have been made yet. Option 3 (Root Cause Analysis) aims to diagnose the underlying cause of a problem, which requires more data than what we currently have about the issue. The most suitable option here would be Usability Testing, where user feedback can help identify possible issues or improvements for the platform's usability that can be addressed before deployment. 
+Example: To start usability testing for this particular issue, you could recruit participants from your customer base who fit certain criteria related to device type and usage habits, then observe how they use your platform while asking questions related to their experiences. This information can then be used to suggest modifications before going live with your product or service.

@@ -1,0 +1,9 @@
+Category: Leadership and Mentoring 
+Circumstance: A Business Analyst is working on a project for a client that requires them to lead a team of developers in order to complete the project within the given timeframe. The BA has been tasked with leading and mentoring the development team, as well as providing strategic direction and insights into the success of the project.
+Q: What are some best practices that should be employed when leading and mentoring a development team?
+A1: Working closely with each member of the team, delegating tasks, communicating expectations clearly, providing feedback regularly. 
+A2: Establishing trust amongst all members, encouraging collaboration and brainstorming sessions, setting realistic goals and deadlines for completion. 
+A3: Holding regular meetings with members of the team to discuss progress and identify areas for improvement. 
+Correct: 1 
+Explanation: All three answers provide important best practices that should be employed when leading a development team; however, answer 1 most accurately describes activities which must be taken in order to successfully mentor an effective development team. As such it is considered the most correct answer. 
+Example: A Business Analyst can mentor their development teams by working one-on-one with each member during planning sessions or other key activities, assigning specific tasks based on each individual's strengths while also ensuring clear communication regarding expectations for completing those tasks both timely and effectively. Additionally they should provide ongoing feedback about successes achieved along with areas needing improvement in order to foster collaborative problem solving between members of the developing teams.

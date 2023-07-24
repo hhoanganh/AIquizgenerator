@@ -1,0 +1,10 @@
+Category: Problem-solving
+Circumstance: You are a Business Analyst on a project to develop an online booking system for a hotel chain. The customer has requested the ability to search and book multiple rooms in one transaction. One of the problems you have encountered is how to ensure that customers can select desired room types while also preventing double-booking of rooms.
+
+Q: What should be done as part of the requirements gathering process to ensure that customers can select desired room types while also preventing double-booking? 
+A1: Design an algorithm for finding available rooms quickly and efficiently. 
+A2: Identify all possible room combinations with associated availability information. 
+A3: Allow customers to book multiple rooms simultaneously without validating their availability. 
+Correct: 2 
+Explanation: Option A1 is incorrect because this only addresses part of the problem, which is searching for available rooms quickly and efficiently – it does not address booking multiple rooms or preventing double-bookings. Option A2 is correct because it identifies all possible room combinations with associated availability information, allowing customers to select desired room types while avoiding double-bookings. Option A3 is incorrect because it does not validate whether there are any available rooms prior to allowing simultaneous bookings which could potentially lead to overbooking issues. 
+Example : For example, if there are five single rooms (SR) and two twin beds (TB) available on a certain date, option A2 would identify these seven different combinations - SR x 1; TB x 1; SR + TB x 1; SR + SR x 2; SR + TB + TB x 1 - along with their respective availability information so the customer can accurately choose among them when booking multiple rooms at once without overbooking them accidentally

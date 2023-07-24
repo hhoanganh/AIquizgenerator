@@ -1,0 +1,9 @@
+Category: Change Management and Impact Analysis 
+Circumstance: You are a Senior Business Analyst at a large retail organization. Your team just presented the findings of their analysis on a potential new project to upper management. Upper management is intrigued by the project, but they have some questions about how it will affect their existing operations. As part of your role, you must explain to them why the project is worth investing in and how it will impact their current processes and systems.  
+Q: What are two key components of change management that should be considered before implementing any changes within an organization?
+A1: Developing an in-depth understanding of organizational culture 
+A2: Identifying existing workforce capabilities 
+A3: Researching industry trends and competitor strategies 
+Correct: 1  
+Explanation: Change management consists of identifying existing workforce capabilities and developing an in-depth understanding of organizational culture as these are essential for successful implementation of changes within the organization. Researching industry trends and competitor strategies while important may be irrelevant when making decisions on internal projects or initiatives.  
+Example: Prior to introducing any new projects or initiatives, it's critical for organizations to understand their employees' skillsets so that they can properly assign tasks and responsibilities during change implementations. Additionally, organizations need to understand if there are certain cultural norms or conventions that need to be taken into account prior to making drastic changes which could have unexpected effects down the line.

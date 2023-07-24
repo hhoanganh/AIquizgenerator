@@ -1,0 +1,9 @@
+Category: Leadership and Mentoring
+Circumstance: You have been assigned a project by the executive team to lead a large, cross-functional initiative, involving multiple departments across the organization. As part of this project, you will need to provide guidance and direction to the various stakeholders. 
+Q: What should be your primary focus when leading a complex, multi-departmental project?
+A1: Making sure that everyone is on the same page with their deliverables. 
+A2: Establishing goals and objectives for each department involved in the initiative. 
+A3: Building relationships with each stakeholder in order to foster collaboration between the different teams. 
+Correct: 3 
+Explanation: The primary focus when leading a complex, multi-departmental project should be building relationships with each stakeholder in order to foster collaboration between the different teams. This helps ensure that all departments are working together towards one common goal while also minimizing potential conflicts or misunderstandings that can arise from miscommunication or lack of clarity regarding expectations and responsibilities. Having strong relationships between stakeholders will also help create an environment where team members are more likely to ask questions or provide feedback instead of assuming they know what needs to be done without consulting other parties involved in the initiative.  
+Example: When leading a complex project involving multiple departments, it is important for you as leader to build trust with all stakeholders by having regular meetings with them and providing clear communication regarding goals and expectations throughout every stage of development process. This way you can ensure that all team members are on board with their tasks and understand how their contributions fit into larger picture of success for entire initiative's completion.

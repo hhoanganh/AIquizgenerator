@@ -1,0 +1,10 @@
+Category: User Interface Design
+Circumstance: You are a Junior Business Analyst who has been tasked with creating the user interface for a web-based application. The application needs to be attractive and intuitive to use, while also being easy to maintain over time.
+
+Q: What is the purpose of wireframing in user interface design? 
+A1: To create interactive prototypes that can be tested by users. 
+A2: To provide developers with a visual guide for coding the website. 
+A3: To produce sketches of each page of the website before any coding takes place. 
+Correct: 3 
+Explanation: Wireframing is an important part of UI (User Interface) design as it allows designers to plan out how each page will look before any coding takes place. It provides basic structure and layout information, such as placement of buttons, menu items, text boxes and other components that need to be included on each page. This helps eliminate potential issues during development by ensuring all elements are placed correctly on the page before any code is written.  
+Example: If you were designing an e-commerce website, one step in your wireframing process may involve sketching out what each product listing would look like on your product search results page and then determining where specific elements should be placed for optimal usability - like having quick view buttons near product images or adding filter options at the top of search results pages.

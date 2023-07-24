@@ -1,0 +1,9 @@
+Category: Change Management and Impact Analysis
+Circumstance: You are a Senior Business Analyst at a large organization working on a project to optimize the workflow of their customer service department. The team has been able to identify several areas where changes in process could lead to improved operational efficiency, but you need to ensure that any changes are properly assessed for possible impacts before implementation.
+Q: What techniques can be used by the Senior Business Analyst when conducting an impact analysis? 
+A1: Identifying stakeholders and their interests  
+A2: Developing prototypes for testing potential solutions 
+A3: Creating diagrams to illustrate the current state of business processes 
+Correct: 1 
+Explanation: Impact analysis involves researching how proposed changes will affect different parties associated with those changes. To accurately conduct an impact assessment, it is important to clearly identify who these stakeholders are and what their interests are in relation to the proposed change. Developing prototypes and creating diagrams can help evaluate potential solutions, but they do not address possible impacts of changes directly related to stakeholder interests. 
+Example: A Senior Business Analyst can start an impact analysis by making a list of all stakeholders affected by the proposed change – such as customers, employees, vendors, etc – and then assessing how each one’s interest might be affected, positive or negatively.

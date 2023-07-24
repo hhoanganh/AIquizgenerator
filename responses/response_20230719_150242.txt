@@ -1,0 +1,10 @@
+Category: Communication 
+Circumstance: 
+You are a Junior Business Analyst working on a project for an international client. Your task is to advise the client on the best way to communicate with their customers in order to ensure that they get feedback and suggestions from them. You have been tasked with gathering data about what channels of communication the organization should use and how they should use it. 
+Q: What is the best method for gathering customer communication preferences? 
+A1: Surveys 
+A2: Interviews  
+A3: Observation studies  
+Correct: 1 
+Explanation: Surveys are one of the most effective methods for gathering customer communication preferences as they provide quantitative data which can be used to gauge trends, opinions, and customer behavior. Surveys allow you to ask open-ended questions which will provide valuable insight into your customers’ preferences while also enabling you to collect large amounts of data quickly and easily. Additionally, surveys can give you invaluable information about customer demographics, such as age or gender.   
+Example: A survey could be created that asks customers about their preferred method of communication (e.g., email, text message) and what times are most convenient for them to receive communications from your organization (e.g., day or night).

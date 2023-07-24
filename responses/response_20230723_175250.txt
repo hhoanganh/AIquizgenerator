@@ -1,0 +1,10 @@
+Category: Testing and quality assurance
+Circumstance: You are a Junior Business Analyst and you have been asked to develop a comprehensive user acceptance testing plan for the organization's upcoming financial software. As the Junior BA, it is important that you create a test plan that considers each of the requirements from stakeholders before approving it.
+
+Q: In order to ensure that all requirements are taken into account when running user acceptance tests, what kind of document should be created?
+A1: A detailed list of all queries and their expected results 
+A2: A business requirements document 
+A3: An automated test script 
+Correct: 2 
+Explanation: The business requirements document should include detailed information on any non-functional or functional requirement specified by the stakeholders. It serves as an essential reference point for executing tests during user acceptance testing (UAT) and helps ensure that all necessary components are tested before final approval. 
+Example: For example, if there is a requirement to save data in real-time, then this should be specified in the business requirements document which can be used later to evaluate whether this feature works correctly during UAT or not.

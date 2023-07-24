@@ -1,0 +1,9 @@
+Category: Stakeholder Management and Relationship Building
+Circumstance: You have been assigned to lead a project for an online retail business. The goal is to build a loyalty program to reward customers who frequently purchase products from the website. Your team has identified stakeholders with various levels of influence in the organization, such as executives, senior managers, product owners, developers, and designers. As the Business Analyst on this project, you need to ensure that all stakeholders are satisfied with the outcome and that their interests are taken into account throughout the entire process. 
+Q: What should be your top priority when engaging with stakeholders in this project? 
+A1: Obtaining data and insights about customer preferences 
+A2: Working collaboratively with other teams involved in the project 
+A3: Establishing relationships of trust amongst all parties 
+Correct: 3  
+Explanation: Stakeholder management involves managing expectations by understanding stakeholder needs and interests, building relationships of trust among them, working collaboratively towards common goals, addressing potential conflicts early on in the process so that they do not escalate into larger problems later down the line. Therefore "establishing relationships of trust amongst all parties" should be your top priority when engaging with stakeholders on this project.   
+Example: To establish relationships of trust between all parties involved in this project, it is important to take time before starting any work to get to know each stakeholder's individual needs and interests as well as their level of influence within the organization. Gathering feedback from stakeholders during different stages of development will also help improve relationships between them and make sure everyone is informed about progress being made on the project.

@@ -1,0 +1,9 @@
+Category: Problem-Solving 
+Circumstance: You are working as a Junior Business Analyst in an IT company. Your team has just been assigned to work on a project for an online retail store that requires you to design a system capable of tracking customer orders. As part of this project, you need to identify the most efficient solution for identifying and resolving any errors or discrepancies in the order fulfillment process. 
+Q: What is the best method for identifying and resolving errors or discrepancies in order fulfillment? 
+A1: Using manual checks from customer service or warehouse personnel. 
+A2: Automating processes using artificial intelligence algorithms and machine learning techniques. 
+A3: Analyzing previous orders data to understand patterns and trends.  
+Correct: 2 
+Explanation: Automating processes using AI algorithms and machine learning techniques is the best way to quickly identify, analyze, and resolve any errors or discrepancies in order fulfillment due to its ability to quickly process large datasets at scale without human intervention. Manual checks by customer service or warehouse personnel may be more accurate but can be time consuming compared with automated solutions. Analyzing historical data can be useful for understanding patterns over time but will not necessarily help with error resolution in the current order fulfilment process.  
+Example: An AI algorithm can be used to monitor each step of an order fulfilment process - from purchase confirmation through delivery - so it's easy to detect when there is an issue that needs attention such as incorrect item codes, wrong shipping addresses, out-of-stock items etc. The algorithm can then alert team members instantly so they can take action before customers experience any delays or issues with their orders!

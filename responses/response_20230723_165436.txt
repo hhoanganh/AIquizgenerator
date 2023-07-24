@@ -1,0 +1,9 @@
+Category: Analytical Thinking
+Circumstance: You are a Junior Business Analyst in an organization that is currently developing a new product. During the development process, you have noticed that some of the assumptions made by stakeholders are not supported by data. You decide to create an analysis of the current situation and suggest improvements based on your findings. 
+Q: What approach would be most suitable for analyzing the current situation and suggesting improvements? 
+A1: Create a survey to collect customer feedback about existing products. 
+A2: Develop a comprehensive data model to identify patterns and correlations between different factors influencing the product’s success. 
+A3: Ask stakeholders to provide their opinions about potential changes and solutions.  
+Correct: 2  
+Explanation: A1 does not provide enough information as it relies on customer feedback which may be biased or incomplete. A3 does not allow for sufficient analysis as it relies on subjective opinion rather than data-driven insights into how different aspects of the project can influence each other. Option B provides the most comprehensive view as it allows for development of a detailed data model in order to identify patterns and correlations between relevant variables so that informed decisions can be made when suggesting improvements.  
+Example: For instance, if one were analyzing sales performance of a specific product, they could develop a data model including factors such as cost of production, pricing strategy, target market demographics etc., and then use this model to identify areas where changes could be made in order to improve sales results (e.g., adjusting prices or targeting more suitable audiences).

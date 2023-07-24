@@ -1,0 +1,9 @@
+Category: Data Modeling and Database Design
+Circumstance: Your company is expanding its services with a web-based application. Your team has been assigned to design the database model for the project. You need to create a database that can properly store all customer data, as well as track customer orders over time in order to capture trends and analytical insights.
+Q: Which of the following best describes the purpose of entity-relationship diagrams (ERDs)? 
+A1: To visually depict how different objects relate to each other. 
+A2: To illustrate the structure of an application or system by representing its underlying data components and relationships between them.
+A3: To document business processes and procedures for later implementation into code. 
+Correct: 2 
+Explanation: Entity-Relationship Diagrams are used to represent entities such as tables, attributes, relationships among them, cardinality constraints etc., in visual form which helps users understand the logical structure of databases easily. It does not document business processes or implement code but rather shows how different objects relate to each other in terms of their attributes and relationship between them. 
+Example: For example, consider a bank account management system where it needs customer data like name, address etc., along with information about accounts held by customers like account type (savings/current), balance etc., ERD will help us represent this information in form of entities like 'Customer' associated with 'Account' having certain attributes which defines their connection like one-to-many relationship i.e one customer can have multiple accounts but each account belongs only to single customer.

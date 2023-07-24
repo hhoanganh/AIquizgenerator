@@ -1,0 +1,10 @@
+Category: Testing and Quality Assurance 
+Circumstance: You are a Junior Business Analyst at a software development company. Your team is tasked with creating a new web application for an international client. After developing the software, your team must conduct user acceptance testing (UAT) to ensure that all features and functionality are working correctly as expected by the customer.
+Part of this process includes setting up a test suite to run tests on different parts of the application using automated test scripts. As the Junior Business Analyst, you need to create detailed test cases from scratch which will be used for UAT.  
+Q: Which of the following should be used when creating detailed test cases? 
+A1: Visual diagrams 
+A2: User interface designs 
+A3: SQL queries 
+Correct: 1 
+Explanation: Test cases should cover specific use scenarios in detail, including requirements validation and expected results. Visual diagrams such as flow charts or state diagrams can help explain complex processes or logic in order to identify potential issues more easily during UAT. User interface designs do not have any relation with creating detailed test cases; it is related with user interface design needed for developing applications. Similarly, SQL queries are not related with creating detailed test cases; they are related with database design and querying data from databases for further analysis or other operations that may be required while developing an application rather than testing it after completion.  
+Example: When you create a flow chart visual diagram of how users navigate through the website in order to check if all links work properly, each step can become a separate test case in order to perform user acceptance testing on each part of the application thoroughly and accurately.

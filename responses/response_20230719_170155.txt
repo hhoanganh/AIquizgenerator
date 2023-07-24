@@ -1,0 +1,9 @@
+Category: Strategic Thinking and Decision Making
+Circumstance: Your company has been gradually losing market share to a new competitor. The new competitor offers better technology solutions that are cheaper, faster, and more efficient than what your company is currently offering. The senior management team is concerned about this and has asked you to analyze the situation and recommend a strategy to increase market share. 
+Q: Which of the following strategies should you propose?
+A1: Invest in marketing campaigns to attract more customers. 
+A2: Improve existing technology solutions with advanced features.  
+A3: Create a strategic partnership with another company in the same industry. 
+Correct: 3 
+Explanation: A strategic partnership with another company would allow your business to gain access to their customer base, technologies, resources, know-how etc., which could help boost market share substantially compared to investing in marketing campaigns or improving existing technology solutions alone. 
+Example: Suppose that two companies producing similar products are looking for ways to grow their businesses together by sharing resources such as personnel, funding access or production capacity through an agreement called "strategic partnership". Both companies can benefit from each other's strengths while simultaneously operating on one shared goal - gaining an edge over competitors in the marketplace.

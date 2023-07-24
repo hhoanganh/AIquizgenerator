@@ -1,0 +1,9 @@
+Category: Strategic Thinking and Decision Making
+Circumstance: You are the Senior Business Analyst of a major supply chain company. Your team has been tasked with finding ways to optimize the current delivery system in order to reduce costs and improve efficiency. After conducting an analysis of the existing system, you have identified several potential strategies that could be implemented in order to reach these goals. However, there is disagreement between your team members on which strategy should be chosen. 
+Q: What decision-making approach should you use when facing multiple options?
+A1: Use a consensus-based decision-making process 
+A2: Follow the opinions of senior managers 
+A3: Consider all potential risks and rewards associated with each option
+Correct: 1 
+Explanation: In this situation, it is important to ensure that everyone's opinion is heard and considered before making a final decision. A consensus-based approach will allow all team members involved in the project to contribute their ideas, perspectives, and insights which can then be used as part of an informed decision process. This form of decision making also allows for collaboration within the group by allowing everyone’s input to shape the outcome, rather than just one individual or small group determining what happens next. 
+Example: For example, if your team proposed three different strategies for optimizing delivery times, you would discuss each option together as a group and come up with pros and cons for each possibility before deciding which method works best based on majority agreement from all participants

@@ -1,0 +1,9 @@
+Category: Cloud Computing and Infrastructure 
+Circumstance: You are a Senior Business Analyst and have been assigned to lead the project of integrating a new cloud service into the organisation's existing infrastructure. The team has discussed various options, but it is up to you to figure out which would be most beneficial for the business. 
+Q: What method should be used in order to ensure successful integration of a new cloud service into an existing infrastructure? 
+A1: Automation tools such as Ansible or Puppet 
+A2: Manual configuration through on-site technicians  
+A3: A hybrid solution that combines automated tools and manual configuration  
+Correct: 1 
+Explanation: Automation tools such as Ansible or Puppet are best suited for successfully integrating a new cloud service into an existing infrastructure. These tools provide an effective way to securely configure system settings and deploy applications quickly without needing manual intervention. Additionally, they can monitor systems in real time, making it easier to track changes and identify issues immediately.    
+Example: For example, if you want to integrate an email platform with your current infrastructure using automation tools, you could set up scripts within the automation tool that will define how users will be authenticated when accessing their emails. This script can also specify other settings such as how frequently emails should be backed up or what languages should be available for composing messages.

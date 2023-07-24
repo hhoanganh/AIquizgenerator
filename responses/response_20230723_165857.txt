@@ -1,0 +1,9 @@
+Category: Stakeholder Management and Relationship Building
+Circumstance: You are a senior business analyst in an IT company. The company just acquired another organization, and you have been assigned to manage the relationship between the two organizations. As part of your role, you need to ensure that all stakeholders on both sides are kept informed about the changes and progress regularly.
+Q: How can a senior business analyst best manage relationships with stakeholders from two organizations?
+A1: Create a meeting schedule so that stakeholders can discuss progress regularly. 
+A2: Set up regular communication channels between the stakeholders from both organizations. 
+A3: Build trust by involving each stakeholder in decision-making processes of their respective organization.
+Correct: 3 
+Explanation: A1 is important in managing relationships but it does not build trust, which is key for successful long-term relationships between two organizations. A2 provides channels for communication but does not guarantee trust or involvement in decision making processes, whereas A3 ensures that all parties involved feel valued by engaging them in decisions and collaborating to reach consensus when needed. 
+Example: To demonstrate stakeholder engagement from both sides, a senior business analyst could organize monthly meetings among the team leads of each organization where they would discuss any changes or progress made over the past month as well as plan future objectives together.

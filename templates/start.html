@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>AI Quiz Generator Reuse Quiz</title>
+  <link rel="stylesheet" type="text/css" href="/static/styles.css">
+</head>
+<body>
+  <div class="quiz-container">
+    <h1>AI Quiz Generator</h1>
+
+    {% if error_message %}
+    <div class="error-message">
+      <p>{{ error_message }}</p>
+    </div>
+    {% endif %}
+
+    <div class="quiz-info">
+      <div class="info-item">
+        <strong>Level:</strong> {{ value }}
+      </div>
+      <div class="info-item">
+        <strong>Category:</strong> {{ quiz.Category }}
+      </div>
+      <div class="info-item">
+        <strong>Circumstance:</strong> {{ quiz.Circumstance }}
+      </div>
+    </div>
+
+    <div class="quiz-list">
+      <!-- Structure for each quiz item, using class="quiz-item" -->
+      <div class="quiz-item">
+        <p class="quiz-question"><strong>Question:</strong> {{ quiz.Q }}</p>
+        {% if not error_message %}
+        <form>
+          <p class="quiz-answer">
+            <input type="radio" name="answer" id="answer1" value="1">
+            <label for="answer1"><strong></strong> {{ quiz.A1 }}</label>
+          </p>
+          <p class="quiz-answer">
+            <input type="radio" name="answer" id="answer2" value="2">
+            <label for="answer2"><strong></strong> {{ quiz.A2 }}</label>
+          </p>
+          <p class="quiz-answer">
+            <input type="radio" name="answer" id="answer3" value="3">
+            <label for="answer3"><strong></strong> {{ quiz.A3 }}</label>
+          </p>
+        </form>
+        {% endif %}
+        <p></p>
+        <p id="result"></p>
+        <p id="explanation" style="display:none;"></p>
+        <p id="example" style="display:none;"></p>
+      </div>
+    </div>
+  </div>
+
+  <!-- Button Container -->
+  <div class="button-container">
+    <form id="home-form" method="get" action="/">
+      <button type="submit" class="home-button">HOME</button>
+    </form>
+    <form id="continue-form" method="post" action="{{ next_page_url }}">
+      <input type="hidden" name="levelText" value="{{ value }}">
+      <button type="submit" class="continue-button">CONTINUE</button>
+    </form>
+  </div>
+
+  <script>
+    var radioButtons = document.querySelectorAll('input[name="answer"]');
+    radioButtons.forEach(function(radioButton) {
+      radioButton.addEventListener('click', function() {
+        checkAnswer();
+      });
+    });
+
+    function checkAnswer() {
+      var selectedAnswer = document.querySelector('input[name="answer"]:checked');
+      if (!selectedAnswer) {
+        return;
+      }
+      var correctAnswer = "{{ quiz.Correct }}";
+      var explanation = "{{ quiz.Explanation }}";
+      var example = "{{ quiz.Example }}";
+      var result = document.getElementById("result");
+      var explanationEl = document.getElementById("explanation");
+      var exampleEl = document.getElementById("example");
+      if (selectedAnswer.value === correctAnswer) {
+        result.innerHTML = "<strong>Correct!</strong>";
+      } else {
+        result.innerHTML = "<strong>Not correct.</strong> The most correct answer is " + correctAnswer + ".";
+      }
+      explanationEl.innerHTML = "<strong>Explanation: </strong>" + explanation;
+      explanationEl.style.display = "block";
+      exampleEl.innerHTML = "<strong>Example: </strong>" + example;
+      exampleEl.style.display = "block";
+    }
+  </script>
+</body>
+</html>

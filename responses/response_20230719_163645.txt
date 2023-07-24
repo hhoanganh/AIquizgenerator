@@ -1,0 +1,10 @@
+Category: Strategic Thinking and Decision Making
+Circumstance: You are the senior business analyst in a leading tech company. Your team has been asked by the executive board to come up with a new product that could revolutionize your industry. After discussing various ideas, you have proposed a plan to launch an online marketplace for businesses in your sector. The board is very impressed and eager to start working on this project but they want to know how confident you are that the strategy will work out.
+
+Q: What should be analyzed before launching the online marketplace?
+A1: Potential competitors 
+A2: Market trends 
+A3: Internal resources available  
+Correct: 2 
+Explanation: Before launching any new product or service it's important to analyze market trends, such as customer demand for similar products/services, pricing models of competitors, changing consumer tastes and preferences, etc., in order to ensure that there is enough potential for success. Analyzing internal resources available helps determine if the organization can handle this new endeavor financially and logistically but does not provide insights into market trends which can help inform strategic decision-making. Potential competitors should also be taken into consideration as they may affect long-term success but again lack insight into market conditions. 
+Example: To better understand potential customer demand for their online marketplace offering, the business analyst team conducted research on current market trends such as competitor pricing models, consumer buying habits, industry growth predictions etc., which helped them create an informed business strategy before launching their product or service.

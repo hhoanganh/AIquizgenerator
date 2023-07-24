@@ -1,0 +1,9 @@
+Category: Requirements Gathering and Documentation 
+Circumstance: You are a Junior Business Analyst working on an Agile project with some experienced developers and quality assurance team members. You have been tasked to document the requirements for the project in a way that all stakeholders can understand. You must ensure that all stakeholders are informed of changes to the requirements throughout the project. 
+Q: What is the best way to document requirements so that they are easily understood by all stakeholders? 
+A1: Send out a memo outlining all requirements for review by stakeholders. 
+A2: Create a detailed spreadsheet with each requirement listed separately.  
+A3: Use visuals, such as charts or diagrams, to communicate and explain complex relationships between different parts of the system. 
+Correct: 3 
+Explanation: Visuals, such as charts or diagrams, provide an effective way to communicate complex relationships between different components of the system which will help all stakeholders better understand what is expected from them in terms of fulfilling their roles and responsibilities related to this project. Using visual elements also helps foster collaboration among different teams because they make sure everyone is on the same page regarding what needs to be completed and how it should be done. Additionally, visuals can help simplify complicated processes into more manageable chunks easier for everyone involved in understanding them.   
+Example: A Gantt chart could be used to illustrate tasks related to software development milestones, such as when certain tasks need to begin or end within each sprint cycle so that everyone knows where their contribution fits into overall progress being made with regards to completion of this project's goals.

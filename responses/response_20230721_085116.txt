@@ -1,0 +1,9 @@
+Category: Negotiation and Conflict Resolution
+Circumstance:You are a Senior Business Analyst at an IT company working on a project to develop a new software system for one of your client's organizations. Your team has been invited to the client's headquarters for further negotiations regarding the project scope, timeline, and budget. During the meeting, you are met with strong resistance from the client's side about some features that they want included in the project. The client is also pushing back on deadlines and budget restrictions that have already been agreed upon earlier. After some heated negotiating, you finally reach an agreement with the client. 
+Q: What negotiation strategy should be used when faced with conflicting demands from both sides?
+A1: Compromise by splitting all differences down the middle 
+A2: Offer incentives such as discounts or additional services 
+A3: Use persuasive techniques such as fact-based evidence to sway opinion 
+Correct: 3 
+Explanation: A compromise often leads to dissatisfaction for both parties involved since each party needs to give up something that is important to them in order for an agreement to be reached. Offering incentives can work, but it may not always be feasible given financial or time constraints. Persuasive techniques such as providing facts or data-driven evidence can help sway opinion towards achieving mutual understanding while still protecting each party’s interests.  
+Example: You can provide information about how this feature will benefit their organization in terms of time saved, cost savings, etc., which will make them more willing to accept it within certain parameters set by both parties.

@@ -1,0 +1,9 @@
+Category: Process Modeling and Workflow Analysis
+Circumstance: Donald works as a business analyst for a large enterprise. He has been tasked with creating an efficient workflow process to replace the current inefficient method that his company is using. The goal of this new workflow process is to streamline the project management system and decrease turnaround times on projects. 
+Q: How can Donald identify which processes should be included in the new workflow?
+A1: By studying existing documentation for each department within the organization 
+A2: By researching what other companies are doing 
+A3: By interviewing stakeholders from all departments of the organization  
+Correct: 3   
+Explanation: All three options provide useful insight into which processes could be included in Donald's proposed workflow, but Option 3 (interviewing stakeholders) will give him access to first-hand knowledge about how departments interact with one another and their individual needs, allowing him to create a more robust workflows design that meets everyone's requirements. Options 1 (studying existing documents) and 2 (researching competitor strategies) can also provide helpful information, but they lack direct input from those most familiar with the day-to-day operations of each department. 
+Example: To determine which processes should be included in his proposed workflow,Donald interviews key stakeholders from various departments such as finance, sales, marketing etc., asking them questions regarding their respective roles and how they interact with other teams. After collecting feedback from these interviews he compiles it into an actionable plan for designing an effective workflow process tailored specifically towards his organization's needs.

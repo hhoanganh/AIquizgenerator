@@ -1,0 +1,9 @@
+Category: Strategic Thinking and Decision Making
+Circumstance: Your company is considering a major investment in a new technology that will enable it to leverage cutting-edge capabilities. However, the investment is expensive and poses some risks. You must recommend whether or not to proceed with the purchase in order to maximize the long-term benefits for your organization.
+Q: What considerations should be taken into account when making a strategic decision? 
+A1: The cost vs. benefit of the purchase 
+A2: The potential long-term impacts on the organization 
+A3: The current market conditions and trends  
+Correct: 2 
+Explanation: When making any strategic decision, it’s important to consider how this decision will affect the organization over time. This includes looking at both short-term costs as well as potential long-term benefits associated with implementing the change or purchase. It’s also important to take into account current market conditions and trends as these can influence what type of investments may yield better returns in different scenarios. 
+Example: For example, if you're considering investing in a new technology but know that similar technologies are being developed by competitors, then you should factor this information into your analysis when deciding whether or not to move forward with the purchase.

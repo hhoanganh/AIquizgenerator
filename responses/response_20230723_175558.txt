@@ -1,0 +1,10 @@
+Category: Change Management and Impact Analysis
+Circumstance: You are a Senior Business Analyst at an eCommerce company, tasked with creating a new online ordering system. As part of the change management process, you need to assess the potential impacts this new system might have on the organization.
+
+Q: What is one way you could identify potential areas of impact for your project? 
+A1: Create surveys and focus groups to get feedback from stakeholders. 
+A2: Develop risk registers to list out any potential issues that could arise with the new system. 
+A3: Analyze historical data regarding similar projects in order to draw conclusions about possible outcomes. 
+Correct: 3 
+Explanation: Risk registers can be helpful in identifying areas of risk for projects but they do not necessarily offer insight into different areas of impact beyond risks; surveys and focus groups can help understand stakeholder opinions but may not provide a comprehensive view of potential impacts; analyzing historical data related to similar projects is an effective way to gain insight into possible areas of impact as past experiences can shed light on what may happen in future implementations.  
+Example: For example, if other organizations have conducted similar projects successfully then it’s likely that they experienced fewer or more minor problems than those who encountered issues such as delays or cost overruns during their implementation process. By examining these past experiences it will be easier for you to anticipate any difficulties which may arise during your own project's implementation phase.

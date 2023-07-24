@@ -1,0 +1,9 @@
+Category: Process Modeling and Workflow Analysis
+Circumstance: You are a Junior Business Analyst on a project team tasked with designing a workflow system for an online retail store. The stakeholders have requested that the system be made as efficient as possible while still meeting all business needs. 
+Q: How can you ensure the design of the workflow system meets all business requirements? 
+A1: Conduct thorough reviews of each requirement to see if it fits within the scope and constraints of the project.
+A2: Prioritize flexibility over efficiency by incorporating multiple layers into the design of the workflow system. 
+A3: Develop processes that support automation and continuous improvement in order to maximize efficiency. 
+Correct: 3 
+Explanation: In order to ensure that all business requirements are met, it is important to create processes that support automation and continuous improvement in order to maximize efficiency, while still staying within the scope and constraints set by stakeholders. This will help reduce time wasted on manual tasks, minimize errors, and increase overall productivity. Additionally, making sure that there is enough flexibility built into the design allows for future changes or adjustments when needed without having to completely overhaul existing systems so long as they remain within budget constraints and stakeholder expectations are met. 
+Example: For example, when designing a new customer registration process for an online retail store, it would be beneficial to incorporate automated steps such as verification emails being sent out automatically instead of manually entering customer information into various databases each time; this way more customers can register quickly at once which increases overall productivity while minimizing any potential errors due to human input..

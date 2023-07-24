@@ -1,0 +1,9 @@
+Category: Change Management and Impact Analysis
+Circumstance: Your development team is working on a new software project for the organization. After the initial requirements were gathered, your senior manager asked you to review the proposed software changes and recommend ways that they can reduce any potential negative impacts to other departments or processes within the organization. 
+Q: What is one technique that should be used when assessing how a change may impact existing business processes? 
+A1: Analyzing user interface design
+A2: Conducting process modeling and workflow analysis
+A3: Establishing communication protocols 
+Correct: 2 
+Explanation: Analyzing user interface design refers to designing visual elements of a product or application for users, which is not related to assessing how a change may impact existing business processes. Establishing communication protocols involves creating rules about how information will be received and sent, which also does not pertain to assessing potential impacts of changes. However, conducting process modeling and workflow analysis referring to breaking down tasks into their individual components so as to identify inefficiencies or opportunities for improvement, which helps assess potential impacts of changes.  
+Example: To assess how implementing new software may affect existing business processes within an organization, the analyst firstly models each step involved in each process by examining details such as resources needed and who is responsible for specific tasks. The analyst then evaluates each task's complexity along with comparing it with other methods of achieving similar results before recommending improvements if necessary.

@@ -1,0 +1,9 @@
+Category: Change Management and Impact Analysis
+Circumstance: Your company is planning to roll out a new business process, which requires changing existing rules and regulations. As the Senior Business Analyst, what are your strategies for evaluating the impact of this change? 
+Q: What techniques should be used to effectively measure changes in business processes?
+A1: SWOT analysis 
+A2: Gap Analysis 
+A3: Risk assessment  
+Correct: 2 
+Explanation: A1 is wrong because SWOT analysis evaluates an organization's Strengths, Weaknesses, Opportunities, and Threats. A2 is correct because Gap Analysis examines the current state of an organization or process against its target state or goal. A3 is wrong because risk assessment only identifies potential risks for a project or system rather than measuring changes in a business process.  
+Example: To apply gap analysis for assessing changes in business processes - Identify the desired outcome from the proposed change; Evaluate how close or far away you are from that desired outcome; Analyze any gaps between reality and desired outcomes; Implement solutions to bridge any identified gaps.

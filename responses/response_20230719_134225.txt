@@ -1,0 +1,9 @@
+Category: Strategic Thinking and Decision Making 
+Circumstance: The marketing team of a large retail company is planning to launch a new product that will target millennial customers. They have identified the market, identified potential competitors, and conducted research on customer buying patterns. Based on the data collected, they are now faced with deciding whether to proceed with the project or not. 
+Q: Which of these options would be most beneficial for the organization in this situation? 
+A1: Hire an external consultant to review all data and provide recommendations. 
+A2: Make a decision based on gut feeling without analyzing any data further. 
+A3: Scrap the project altogether and move onto other initiatives.  
+Correct: 1 
+Explanation: Option A1 is most beneficial in this situation because it allows for an independent analysis of all collected data while incorporating feedback from stakeholders. This will help ensure that potential risks associated with launching the product are minimized before any commitment is made by both sides involved in the process. Option A2 should be avoided since it doesn’t allow for any further analysis or insights into customer preferences or existing market conditions which could lead to costly mistakes down the road if implemented incorrectly. Option A3 should also be considered carefully since scrapping a project can generate significant financial losses and negatively impacting brand loyalty among current customers that may have been interested in purchasing this product when released.   
+Example: In order to make an informed decision about whether or not to launch their new product targeting millennials, it was important for the marketing team at a large retailer to get outside opinions from external consultants who could properly analyze all available data along with stakeholder feedback before committing funds towards development costs & advertising campaigns related to this initiative.

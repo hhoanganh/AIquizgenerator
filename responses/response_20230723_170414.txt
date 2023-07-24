@@ -1,0 +1,9 @@
+Category: Process Modeling and Workflow Analysis 
+Circumstance: The company "XYZ" has recently undergone a major reorganization. As a result, all the departments have been restructured and new processes and workflows have been implemented to maximize efficiency. You are tasked with developing an automated system that will track particular metrics for each of the department's processes in order to monitor their performance over time. 
+Q: What is the best way to ensure accuracy when tracking workflow metrics? 
+A1: Create manual data entry points for employees to enter information about process performance. 
+A2: Employ machine learning algorithms and Artificial Intelligence (AI) methods such as Natural Language Processing (NLP). 
+A3: Automate data collection by integrating existing software programs with custom-built scripts.  
+Correct: 3 
+Explanation: Automating data collection by integrating existing software programs can provide more accurate tracking of workflow metrics than manual entry or AI/machine learning methods due to improved accuracy, consistency, availability, speed, scalability, and cost savings associated with automation. For example, a script could be developed that monitors workflow performance in real-time so any problems can be identified quickly before they become serious issues.  
+Example: A business analyst at XYZ could create a script that reads from an API provided by one of its customer service applications in order to measure how quickly customer inquiries are responded to during peak periods of activity on the website. The script would then collect this data into a database where it could be analyzed over time for insights about customer service performance.

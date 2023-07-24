@@ -1,0 +1,9 @@
+Category: Business Process Reengineering 
+Circumstance: Your company has identified the need to streamline their business processes and has tasked you with leading the reengineering process. You have been asked to assess which processes should be maintained, adjusted, or eliminated in order to maximize efficiency. 
+Q: What is the most important approach for successful business process reengineering? 
+A1: Eliminate unnecessary steps and optimize existing processes. 
+A2: Automate manual tasks and integrate data sources. 
+A3: Introduce new technologies and design from scratch.  
+Correct: 1 
+Explanation: The key to successful business process reengineering is eliminating unnecessary steps, optimizing existing processes where possible, and automating any manual tasks that can be streamlined through technology integration. Introducing new technologies or starting from scratch may be necessary in some cases but should not be considered a primary solution for process improvement as it often leads to costly investments of time, money, and resources.  
+Example: To make their shipping process more efficient, a company may identify manual activities like manually packing goods into boxes or entering customer information into different systems by hand that could instead easily be automated by integrating their existing inventory software with an online shipping system such as UPS or FedEx.

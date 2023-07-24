@@ -1,0 +1,9 @@
+Category: Adaptability and Flexibility
+Circumstance: You are a Junior Business Analyst, part of a large-scale IT project team. Your team is tasked with the implementation of an enterprise resource planning system for an automobile manufacturer. The project is already underway and your team's timeline is tight. Unfortunately, you have been informed that the first software solution provided by your vendor does not meet all the requirements set forth and now must be modified in order to complete the project on time. 
+Q: What should you do as a Junior Business Analyst to ensure that the modifications will be done properly so that the project can still be completed on time?
+A1: Work closely with developers to understand their capabilities and limitations in order to create realistic modifications.
+A2: Ask other teams within the organization for help in making changes faster than what was originally planned for this phase of the project.
+A3: Reassess all requirements from scratch, taking into account new factors including budget and timeline constraints. 
+Correct: 1 
+Explanation: As a Junior Business Analyst, it is important to work closely with developers to understand their capabilities and limitations in order to create realistic modifications which meet all requirements within given constraints such as budget and timeline constraints while still meeting business needs. Option 2 would not provide any help in meeting requirements or changing anything about current processes; while option 3 would take too long given tight timelines already established by other teams working on this same project. 
+Example: In order for your team’s proposed modifications to be accepted by stakeholders, you need to work closely with developers throughout the process in order to make sure they are feasible given existing resources (such as time) available during this phase of development.

@@ -1,0 +1,9 @@
+Category: Requirements Gathering and Documentation
+Circumstance: You are a Junior Business Analyst working with an IT team on a software project. The team is putting together the requirements document that will be used to guide the development of the software. One of the stakeholders has requested that you add a section dedicated to usability requirements, which will define how users interact with and navigate through the application. 
+Q: What type of information should be included in the Usability Requirements section?
+A1: Information about user interface design, such as user flows, visual elements, and colors. 
+A2: Information regarding data integration points, such as APIs and web services. 
+A3: Details on how users can interact with each feature within the application. 
+Correct: 1 
+Explanation: Option A is correct because usability requirements generally include information on user interface design (e.g., user flows, visual elements) which focuses on how users interact with an application or website visually. Options B & C are incorrect because they focus more on data integration points (e.g., APIs & web services) and details of feature interactions within an application/website respectively - rather than design aspects related to usability requirements like those in option A.  
+Example: For example, if a banking app has multiple pages for different account types (ease checking accounts etc.), then part of its usability requirements might include information about intuitive navigation between these pages (such as by using menus or buttons).

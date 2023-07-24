@@ -1,0 +1,10 @@
+Category: Change Management and Risk Assessment
+Circumstance: 
+Your company's digital transformation project is underway. You are the senior business analyst on the team and have been assigned to lead the change management process. You quickly realize that managing organizational change is a complex task with many risks associated with it. You need to be able to identify and assess these potential risks in order to develop a successful strategy for implementing the changes.
+Q: Which of these strategies should you use first in order to manage risk associated with organizational change? 
+A1: Define goals, objectives, and scope of the project. 
+A2: Identify potential risks and assess their impact on the project’s success. 
+A3: Develop a plan for mitigating those risks if they occur 
+Correct: 2 
+Explanation: It is critical that you identify any potential risks associated with implementing organizational change before moving forward with any other steps in the process. Defining goals, objectives, and scope can help you gain an understanding of what needs to be accomplished but does not involve analyzing or assessing risk potentials directly. Developing a plan for mitigating those identified risks should come after completing an analysis of them so that all possible scenarios can be taken into consideration when formulating your response plans.  
+Example: Before taking any further action towards implementing organizational change within your organization, take some time to fully understand what underlying risks may exist by conducting research such as interviews with key stakeholders or reading industry reports related to similar initiatives undertaken by competing companies or organizations in your field. This will give you a better idea of which potential issues could arise during the implementation phase so that appropriate measures can be taken ahead of time if needed.

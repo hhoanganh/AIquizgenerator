@@ -1,0 +1,9 @@
+Category: Problem-solving 
+Circumstance: You are a Junior Business Analyst working in an organization that is starting to use business process reengineering. Your team has identified a few processes that need improvement and have assigned you the task of finding solutions. You have decided to work on streamlining the customer order process which, at present, requires multiple steps and takes too long. 
+Q: What problem-solving technique would you use to identify potential solutions?
+A1: Root cause analysis 
+A2: Six Sigma 
+A3: Brainstorming 
+Correct: 3
+Explanation: Brainstorming is an effective problem-solving technique for generating as many ideas as possible to tackle complex problems. It involves coming up with unusual or creative ideas in a group setting without any judgment so that all members can contribute freely. In this case, brainstorming could help generate ideas for improving the customer order process quickly and efficiently. Root cause analysis helps identify underlying causes of a problem while Six Sigma is used to reduce errors and improve quality performance levels by analyzing data related to products or services. 
+Example: If your team wants to find ways of improving the customer order process, you will first need to brainstorm potential solutions together as a group before assessing which ones are feasible and practical for implementation.

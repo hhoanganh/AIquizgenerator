@@ -1,0 +1,8 @@
+Category: Agile and Scrum Methodologies
+Circumstance: You are an IT Business Analyst for a large company that has decided to implement the Agile methodology. As the BA, you must explain to the stakeholders what this entails and how it will affect their projects in terms of timelines, deliverables, budgeting, etc.
+Q: What is one of the main advantages of using an agile approach? 
+A1: Continuous feedback from stakeholders 
+A2: Faster time-to-market 
+A3: Lower cost development  
+Correct: 2 
+Explanation: One of the key benefits of using an agile approach is its focus on delivering products quickly with minimal resources. This allows organizations to get new products or services into markets faster than traditional methods which often require more effort and financial investment. By providing shorter cycles times for product delivery as well as regular communication with stakeholders, teams can receive frequent feedback throughout the process leading to improved quality outcomes that meet customer expectations (Source books listed above).  Example : An organization decides to develop a website application utilizing agile principles instead of waterfall methodologies. With shorter sprints they were able to iteratively build out features while receiving continuous feedback from customers about changes or additional functionality they wanted added throughout each cycle allowing them to react quickly without rescheduling deadlines or increasing budgets allocated over implementation timeline.

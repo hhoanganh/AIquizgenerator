@@ -1,0 +1,9 @@
+Category: Change Management and Risk Assessment 
+Circumstance: Your company is embarking on a major project to redesign its website. It will involve the collaboration of multiple departments and stakeholders, including product managers, designers, usability experts, developers, content writers, etc. You have been assigned as the Business Analyst to assess any potential risks associated with this project so that your team can develop an effective risk management strategy. 
+Q: What are some important points you should consider when assessing the risks associated with your web design project? 
+A1: Identify which aspects of the project may be subject to external influences or changes in circumstance. 
+A2: Understand how different stakeholders may vary in their understanding and opinion about certain aspects of the project. 
+A3: Develop strategies to mitigate any identified risks such as budgeting for potential delays or extra resources. 
+Correct: 3 
+Explanation: Assessing the risks associated with a web design project requires that you identify potential external influences and changes in circumstance that could affect it (Answer 1), understand how different stakeholders view it differently (Answer 2), and develop strategies for mitigating any identified threats (Answer 3). This includes budgeting for potential delays or additional resources if needed.  
+Example: For example, if there is a risk of changes in legislation impacting the website’s design then budgeting extra time and money into the plan would help reduce uncertainty around delivering on time.

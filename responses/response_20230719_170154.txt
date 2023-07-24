@@ -1,0 +1,9 @@
+Category: Negotiation and Conflict Resolution
+Circumstance: You are the Senior Business Analyst at a software development company. The team is in the middle of developing a new web-based application for one of their clients. The project is behind schedule due to an unforeseen issue with data migration and integration. The client has threatened to cancel the project unless it can be delivered before the end of the month, which is only two weeks away. 
+Q: What should you do as a senior business analyst to help resolve this conflict? 
+A1: Talk directly with the client's representatives about their expectations and deadline 
+A2: Ask for more time from management or propose additional resources be allocated to meet the deadline 
+A3: Threaten legal action if they do not agree to extend the timeline 
+Correct: 1  
+Explanation: Option A would be the best approach for resolving this conflict since it involves communicating directly with the client's representatives, understanding their needs, and finding solutions that satisfy both parties. Options B and C are not suitable solutions since they involve taking unilateral actions which might further aggravate tensions between your organization and its clients.  
+Example: As a senior business analyst, you could arrange a meeting with your client's representatives to discuss their expectations and concerns in detail so that you can understand how best to proceed with resolving this conflict while meeting everyone's needs in a timely manner.

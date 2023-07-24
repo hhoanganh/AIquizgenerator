@@ -1,0 +1,9 @@
+Category: Problem-solving
+Circumstance: A Business System Analyst with junior-level experience is working on a project to improve the operational efficiency of an organization. The analyst has identified inefficiencies in business processes and proposed solutions to enhance performance. However, stakeholders are not convinced that the changes will be beneficial for their organization. 
+Q: How can the Business System Analyst best demonstrate the value of their proposed changes? 
+A1: Create a visual aid outlining how each change would benefit the organization 
+A2: Provide detailed analysis showing potential cost savings from implementing suggested changes  
+A3: Present proof that similar projects have seen success elsewhere 
+Correct: 1 
+Explanation: By creating a visual aid outlining how each change would benefit the organization, it allows stakeholders to quickly grasp what they stand to gain by making these improvements. This provides tangible evidence for them to make an informed decision about whether or not they should proceed with implementation. Other options such as providing detailed analysis and presenting proof may also be helpful but might take more time and effort than necessary when trying to convince key decision makers.  
+Example: To illustrate this point further, let's say there was a proposal made by the BSA team regarding new technologies used for customer service automation where customers could self-serve through online portals instead of having to speak directly with staff members over live chat or phone calls. In order for stakeholders within that company see value in this proposed solution, it is important that there is some kind of visual representation (e.g., chart/graph) which outlines how much money could potentially be saved from reducing man hours spent dealing with customer inquiries as well as any other possible benefits associated with using automated technology like faster response times etcetera..

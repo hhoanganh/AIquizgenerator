@@ -1,0 +1,9 @@
+Category: Time Management 
+Circumstance: You work as a Junior IT Business Analyst at an organization. Your team recently received a request to develop an application that requires you to manage multiple tasks simultaneously and deliver the project on time. To meet the tight deadline, your team needs to be efficient in managing their workload and working collaboratively. 
+Q: How can your team ensure they adhere to deadlines while still having enough time for each task?
+A1: Set fixed working hours every day with dedicated breaks throughout the day 
+A2: Break down larger tasks into smaller chunks of work  
+A3: Create a detailed timeline for key milestones in the project  
+Correct: 2 
+Explanation: Setting fixed working hours ensures that everyone is productive during specific times of day; but breaking down larger tasks into smaller chunks allows team members to focus on one thing at a time, making it easier for them complete tasks within specific timelines without sacrificing quality or accuracy. Additionally, creating detailed timeline helps keep track of progress by setting milestones along the way and motivating teams towards successful completion of tasks within those milestone dates. 
+Example: To help with managing multiple projects effectively, break up large projects into separate manageable parts such as “User Interface”, “Database Design” or “Testing & Quality Assurance” which makes it easier for teams to focus on completing only what's necessary first before going forward onto more complex steps later in development process.

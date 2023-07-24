@@ -1,0 +1,9 @@
+Category: System Analysis 
+Circumstance: You work as a Junior IT Business Analyst for an insurance company. The company is looking to implement an automated system to track customers' payment records and check the accuracy of data stored in their databases. Your task is to properly document the requirements for this project, so that stakeholders can understand what needs to be done and how it should be implemented. 
+Q: What type of document do you need to create in order to clearly express the requirements?
+A1: Use case diagram 
+A2: Requirements Matrix  
+A3: Process Flow Diagram   
+Correct: 2 
+Explanation: A use case diagram would not provide enough detail about each requirement needed for the project. On the other hand, a Requirements Matrix provides a clear and detailed description for each requirement by breaking them down into smaller components like inputs, outputs, conditions, exceptions etc., which makes it easier for stakeholders to understand what needs to be done. Lastly, while a Process Flow Diagram illustrates how certain processes or tasks occur within an organization step-by-step; this does not provide information on specific individual requirements needed for the particular project at hand.  
+Example: For example, if one of your requirements is “automatically update customer’s address” then your Requirements Matrix will include columns such as Input (what data needs inputted), Output (what results are expected), Condition (under what circumstances should this occur) etc..

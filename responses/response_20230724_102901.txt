@@ -1,0 +1,9 @@
+Category: Analytical Thinking
+Circumstance: You are a Junior Business Analyst at an IT Company. Your job is to analyze and improve the existing business processes and workflows. The company has recently launched a new product initiative and needs help in understanding the project requirements and developing a plan for implementation. 
+Q: What is the first step that should be taken when analyzing an existing business process?
+A1: Create a Process Flow Diagram 
+A2: Identify stakeholders  
+A3: Establish objectives 
+Correct: 1 
+Explanation: The first step when analyzing an existing business process should always be creating a Process Flow Diagram, which breaks down each component of the workflow into individual steps so that it can be easily understood. This diagram allows you to visualize how all of the pieces interact with one another as well as identify any potential weaknesses or areas that need improvement. Once this diagram has been created, stakeholders can then be identified and objectives can then be established for what needs to be achieved by optimizing the process. 
+Example: A good example of creating a Process Flow Diagram would include listing out each component of your workflow (e.g., customer service inquiries, order processing, etc.), drawing arrows between them indicating how they interact with one another, and labeling each arrow with what action needs to take place in order for the workflow to progress from start to finish correctly.
